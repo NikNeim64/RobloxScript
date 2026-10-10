@@ -1,4 +1,4 @@
-Target = "NameHere"
+Target = "Nikson6410"
 
 NOW = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 game.Players.LocalPlayer.Character.Humanoid.Name = 1
